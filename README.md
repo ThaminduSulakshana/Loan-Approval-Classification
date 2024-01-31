@@ -11,10 +11,6 @@ Handles missing values, modifies data types, and performs exploratory data analy
 - `train_data.csv`: Training dataset with 491 rows and 13 columns.
 - `test_data.csv`: Testing dataset with 123 rows and 12 columns.
 
-### Requirements
-
-- `requirements.txt`: Lists the required Python packages and their versions for replication.
-
 The app is built using the Flask web framework and offers an intuitive interface to predict "The loan approval" [Video](https://drive.google.com/file/d/1lrQCTtX7gCn_gm1dos9EJhVMYXeGRw1b/view?usp=sharing). You can access the live version of this web application [here](https://airlinedelays.azurewebsites.net/).
 
 ![Image Alt Text](https://github.com/ThaminduSulakshana/Loan-Approval-Classification/blob/main/Screenshot%20(354).png)
