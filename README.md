@@ -15,6 +15,6 @@ Handles missing values, modifies data types, and performs exploratory data analy
 
 - `requirements.txt`: Lists the required Python packages and their versions for replication.
 
-The app is built using the Flask web framework and offers an intuitive interface to predict "The loan approval" [Video](https://drive.google.com/file/d/1YTYSeVagjFzNBsmXJxJNcpSp1bynahhI/view?usp=sharing). You can access the live version of this web application [here](https://airlinedelays.azurewebsites.net/).
+The app is built using the Flask web framework and offers an intuitive interface to predict "The loan approval" [Video](https://drive.google.com/file/d/1lrQCTtX7gCn_gm1dos9EJhVMYXeGRw1b/view?usp=sharing). You can access the live version of this web application [here](https://airlinedelays.azurewebsites.net/).
 
-![Image Alt Text](https://github.com/ThaminduSulakshana/Airline-delay-prediction/blob/b720f0b326667b92f91c274c0a7f424597cdd8ee/Screenshot%20(282).png)
+![Image Alt Text](https://github.com/ThaminduSulakshana/Loan-Approval-Classification/blob/main/Screenshot%20(354).png)
